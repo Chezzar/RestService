@@ -1,1 +1,13 @@
-[{"id":1,"name":"memelas","score":903.0},{"id":2,"name":"paparuchas","score":45.0}]
+[
+  {
+    "id":1,
+    "name":"memelas",
+    "score":903.0
+   },
+   
+   {
+    "id":2,
+    "name":"paparuchas",
+    "score":45.0
+    }
+ ]
